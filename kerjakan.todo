@@ -1,0 +1,50 @@
+yang akan dikerjkan :
+  ✔ buat database @done (18-09-20 13:46)
+  ✔ login sistem @done (18-09-20 13:46)
+  ✔ autentikasi @done (18-09-20 13:46)
+  ✔ join table @done (18-11-02 14:13)
+  ✔ UUID pengganti ID increment @done (18-10-19 10:22)
+  ✔ datatables server side @done (18-11-03 11:58)
+  ☐ ide unutk text area
+  ☐ 
+
+rancangan database :
+  ✔ tb_dokter @done (18-10-30 15:57)
+  ✔ tb_obat @done (18-09-20 13:46)
+  ✔ tb_pasien @done (18-10-30 15:57)
+  ✔ tb_poliklink @done (18-10-24 16:55)
+  ✔ tb_rekammedis @done (18-11-02 14:13)
+  ✔ tb_rm_obat @done (18-11-03 14:34)
+  ✔ tb_user @done (18-09-10 22:06)
+  ✔ relasi antar tabel da npengunaan join table @done (18-11-03 15:18)
+
+
+tampilan :
+    ✔ login @done (18-09-10 22:07)
+    ✔ dashboard admin/ backend @done (18-09-20 13:46)
+    ✔ databable @done (18-11-03 11:58)
+
+pengerjaan :
+  ✔ baru sampai video 5 menit ke 05 @done (18-09-20 13:46)
+  ✔ lanjut ke video 6 @done (18-09-21 10:22)
+  ✔ video 7 sampai pada menit 22:35 @done (18-10-15 16:48)
+  ✔ video ke -9 @done (18-10-19 11:00)
+  ✔ video ke 10 menit 17:35 @done (18-10-19 16:50)
+  ☐ video 12 multiple edit
+  ✔ lompat ke video 14 skip pada  multiple CRUD video 12 - 13 @done (18-10-25 17:12)
+  ✔ lanjut ke video 15 @done (18-10-30 15:57)
+  ✔ video 17 datatables server side @done (18-10-30 16:14)
+  ✔ lanjut video 18 awal sampai 13.18 @done (18-10-31 09:46)
+  ✔ video 19 masalah pada import file menit ke 32.00 @done (18-11-02 13:38)
+  ✔ video 20 relasi antar database @done (18-11-02 14:20)
+  ✔ video ke 21 @done (18-11-03 11:58)
+  ✔ video 22 @done (18-11-03 14:33)
+  ✔ video 23 bahas relasi table @done (18-11-03 15:18)
+  ☐ video 24 terakhir
+
+
+kendala :
+  ☐ pagination
+  ☐ searching
+  ☐ multiple edit bermaslah tidak bisa checking
+  ✔ import file dari excel secar abanyak menggunakan package phpoffice (pacakgist) @done (18-11-02 13:38)
